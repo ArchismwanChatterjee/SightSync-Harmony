@@ -1,0 +1,8 @@
+streamlit
+Pillow
+google-generativeai
+gtts
+deep-translator
+firebase-admin
+requests
+openai
