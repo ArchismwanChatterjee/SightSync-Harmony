@@ -7,7 +7,7 @@
 
 SightSync Harmony revolutionizes the way individuals, both visually impaired and sighted, perceive and interact with their surroundings. Leveraging advanced AI-powered image detection and generation, the web app enables users to upload images and receive detailed audio descriptions of detected objects, alongside contextual information about the environment. Sighted users can also benefit from these features, gaining insights and translations in various languages, enhancing their understanding of diverse environments.
 
-Click [here](https://sight-sync-harmony.streamlit.app/) to try out
+Click [here](https://sightsyncharmony1.streamlit.app/) to try out
 
 ## Features:
 
